@@ -2,7 +2,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-indexdev@contact.me-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:samujjwaal.dey@acuitybrands.com "Connect via Email")
 
-<a href=""><img src="https://github.com/Indexqq/Indexqq/raw/master/etc/hand_v.png" align="right" height="275" /></a>
+<a href=""><img src="https://github.com/Indexqq/Indexqq/raw/master/etc/indexphoto.png" align="right" height="275" /></a>
 
 I am a 2nd-year Graduate Student at The University of Illinois at Chicago, pursuing a Masters in Computer Science, who is passionate about Data Science :bar_chart:, Pythonic programming :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way.
 
