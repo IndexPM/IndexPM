@@ -6,7 +6,7 @@
 
 I am an enthusiastic programmer who is ready to learn day after day.
 
-- 📭 [Reach out](#hi-there-Index-here) Para obtener ayuda con PHP, CS and C++
+- 📭 [Reach out](#hi-there-Index-here) Para obtener ayuda con PHP, Java and C++
 - 💬 Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in between
 - 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
 - 👾 Fun fact: Everything that has been or could be written/said already exists in the [Library of Babel](https://libraryofbabel.info/)
