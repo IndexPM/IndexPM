@@ -1,4 +1,4 @@
-## Hi there, [Index] here 👋🏼👨🏻‍💻
+## Hi there, [Mexipajas] here 👋🏼👨🏻‍💻
 
 [![Gmail Badge](https://img.shields.io/badge/-indexdev@contact.me-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:samujjwaal.dey@acuitybrands.com "Connect via Email")
 
