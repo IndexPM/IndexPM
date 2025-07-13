@@ -1,6 +1,6 @@
 ## Hi there, [Alexis] here 👋🏼👨🏻‍💻
 
-[![Gmail Badge](https://img.shields.io/badge/-opindex@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:samujjwaal.dey@acuitybrands.com "Connect via Email")
+[![Gmail Badge](https://img.shields.io/badge/-opindex.contact@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:samujjwaal.dey@acuitybrands.com "Connect via Email")
 
 <a href=""><img src="https://github.com/indexpm/indexpm/etc/perfil.png" align="right" height="275" /></a>
 
