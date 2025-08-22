@@ -2,7 +2,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-opindex.contact@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mcklopedias.dey@inprotect.com "Connect via Email") 
 
-<a href=""><img src="https://github.com/mcklopedias/mcklopedias/etc/perfil.png" align="right" height="275" /></a>
+<a href=""><img src="https://github.com/CYKLOOO/CYKLOOO/etc/perfil.png" align="right" height="275" /></a>
 
 I am an enthusiastic programmer who is ready to learn day after day.
 
@@ -14,7 +14,7 @@ I am an enthusiastic programmer who is ready to learn day after day.
 <details>
   <summary>Some of my Github Public Stats :computer:</summary>
 
-  [![My Github Stats](https://github-readme-stats.vercel.app/api?username=mcklopedias&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/mcklopedias)
+  [![My Github Stats](https://github-readme-stats.vercel.app/api?username=CYKLOOO&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/mcklopedias)
 
   ![Profile Views](https://komarev.com/ghpvc/?username=mcklopedias&color=blue)
   ----
@@ -24,7 +24,7 @@ I am an enthusiastic programmer who is ready to learn day after day.
 <details>
   <summary>Find me around the web :globe_with_meridians:</summary>
   
-  <a href="https://indexpm/"><img src="https://github.com/mcklopedias/etc/perfil.png" align="right" height="150" /></a>
+  <a href="https://CYKLOOO/"><img src="https://github.com/CYKLOOO/etc/perfil.png" align="right" height="150" /></a>
   
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/CodeWithAlex/playlists "My YouTube playlists")
 ----
@@ -46,5 +46,5 @@ I am an enthusiastic programmer who is ready to learn day after day.
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mcklopedias)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CYKLOOO)
 -->
