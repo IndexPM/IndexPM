@@ -1,4 +1,4 @@
-## Hi there, [mcklopedias] here 👋🏼👨🏻‍💻
+## Hi there, [Index] here 👋🏼👨🏻‍💻
 
 [![Gmail Badge](https://img.shields.io/badge/-opindex.contact@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mcklopedias.dey@inprotect.com "Connect via Email") 
 
