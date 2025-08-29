@@ -37,4 +37,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 <br/>
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=index-v)
+
 ---
